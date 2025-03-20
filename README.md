@@ -10,7 +10,7 @@
 
 ### 🛠️ Technical Skills  
 
-![Data Analysis & Manipulation](https://img.shields.io/badge/Data%20Analysis%20&%20Manipulation-002147?style=for-the-badge&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white) ,  ![SQL](https://img.shields.io/badge/-SQL-black?logo=mysql&logoColor=white) ,  ![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas&logoColor=white) ,  ![NumPy](https://img.shields.io/badge/-NumPy-black?logo=numpy&logoColor=white)  
+![Data Analysis & Manipulation](https://img.shields.io/badge/Data%20Analysis%20&%20Manipulation-191970?style=for-the-badge&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white) ,  ![SQL](https://img.shields.io/badge/-SQL-black?logo=mysql&logoColor=white) ,  ![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas&logoColor=white) ,  ![NumPy](https://img.shields.io/badge/-NumPy-black?logo=numpy&logoColor=white)  
 
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-002147?style=for-the-badge&logoColor=white)  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?logo=powerbi&logoColor=white) ,  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?logo=plotly&logoColor=white) , ![Streamlit](https://img.shields.io/badge/-Streamlit-black?logo=streamlit&logoColor=white) , ![Vega-Altair](https://img.shields.io/badge/-Vega%20Altair-black?logo=vega&logoColor=white)  
 
