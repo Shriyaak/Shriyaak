@@ -1,6 +1,6 @@
 
 
-### Hi I'm Shreeya!
+### Hi I'm Shreeya! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 🎓 Recent MSc Data Science Graduate – University of Nottingham, UK <br/>
 👩🏻‍🎓 Bachelor’s in Information Technology – MAEER’s MIT College of Engineering, India <br/>
