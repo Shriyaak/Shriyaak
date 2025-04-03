@@ -2,7 +2,10 @@
 
 ### Hii! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-##  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16F7AA&width=435&lines=Ex+Data+Analyst+%40+Foliage+Outdoors;MSc+Data+Science+%40+UoN+(Merit);3x+Google+Certified+Professional;Data+Scientist;AI+Enthusiast"/>
+##  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3366CC&width=435&lines=Ex+Data+Analyst+%40+Foliage+Outdoors;MSc+Data+Science+%40+UoN+(Merit);3x+Google+Certified+Professional;Data+Scientist;AI+Enthusiast"/>
+
+
+
 
 I’m Shreeya—data enthusiast, problem-solver, and lifelong learner, currently based in London. <br/> 
 
@@ -30,7 +33,10 @@ Databases & Big Data: ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=my
 
 
 Let’s connect!  <br/> 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23003B1F.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/shreeyakumbhoje/)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23001B3A.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/shreeyakumbhoje/)
+
+
+
 
 
 
