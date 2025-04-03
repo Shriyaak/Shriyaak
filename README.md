@@ -5,7 +5,8 @@
 ##  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16F7AA&width=435&lines=Ex+Data+Analyst+%40+Foliage+Outdoors;MSc+Data+Science+%40+UoN+(Merit);3x+Google+Certified+Professional;Data+Scientist;AI+Enthusiast"/>
 
 I’m Shreeya—data enthusiast, problem-solver, and lifelong learner, currently based in London. <br/> 
-I recently wrapped up my MSc in Data Science at the University of Nottingham, building on my Engineering degree in Information Technology from MIT, Pune. I’m all about digging into data, finding trends, and using insights to tackle real-world problems. With experience in both data analytics, machine learning, and data science projects, I’m passionate about AI and tech and constantly working to sharpen my skills. <br/>
+
+I recently recently earned my MSc in Data Science at the University of Nottingham, building on my Engineering degree in Information Technology from MIT, Pune. I’m all about digging into data, finding trends, and using insights to tackle real-world problems. With experience in both data analytics, machine learning, and data science projects, I’m passionate about AI and tech and constantly working to sharpen my skills. <br/>
 Right now, I’m focused on landing a data analyst role and actively exploring new opportunities. <br/>
 
 When I’m not working with data, you’ll find me keeping up with tech trends, making [art](https://www.tumblr.com/blog/sketchink), binge-watching anime, traveling, and snapping photos.
