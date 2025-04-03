@@ -33,6 +33,5 @@ Let’s connect!  <br/>
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23003B1F.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/shreeyakumbhoje/)
 
 
-<img src="https://vbr.nathanchung.dev/badge?page_id=Shriyaak.Shriyaak&color=16F7AA" style="float: right;"/>
 
 
