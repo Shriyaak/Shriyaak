@@ -1,18 +1,15 @@
 
 
-### Hii! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 ##  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3366CC&width=435&lines=Ex+Data+Analyst+%40+Foliage+Outdoors;MSc+Data+Science+%40+UoN+(Merit);3x+Google+Certified+Professional;Data+Scientist;AI+Enthusiast"/>
 
 
 
+I’m Shreeya — a data enthusiast, problem-solver, and lifelong learner based in London. <br/>
+Recent graduate from the University of Nottingham with an MSc in Data Science, I thrive on turning data into meaningful insights and solving real-world problems. With hands-on experience in data science projects and implementing machine learning algorithms, I'm passionate about using data to drive impact. My long-term goal is to contribute to AI-focused projects, and I see data analytics as the perfect foundation to grow in that direction. <br/>
 
-I’m Shreeya—data enthusiast, problem-solver, and lifelong learner, currently based in London. <br/> 
-
-I recently earned my MSc in Data Science at the University of Nottingham, building on my Engineering degree in Information Technology from MIT, Pune. I’m all about digging into data, finding trends, and using insights to tackle real-world problems. With experience in both data analytics, machine learning, and data science projects, I’m passionate about AI and tech and constantly working to sharpen my skills. <br/>
-
-When I’m not working with data, you’ll find me keeping up with tech trends, making [art](https://www.tumblr.com/blog/sketchink), binge-watching anime, traveling, and snapping [photos](https://www.instagram.com/shreeya.k___/).
-
+Beyond tech, I’ve managed logistics for 30+ expeditions, collaborated on innovative projects, and developed a strong sense of adaptability through travel. When I’m not deep in code or data, you’ll find me [sketching](https://www.tumblr.com/blog/sketchink), reading, binge-watching anime, traveling, and snapping [photos](https://www.instagram.com/shreeya.k___/). or cooking—because balance matters. <br/>
 
 <br/> 
 Actively focused on landing a data analyst role and exploring new opportunities. <br/>
