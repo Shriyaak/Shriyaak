@@ -1,6 +1,6 @@
 
 
-### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 ##  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3366CC&width=435&lines=Ex+Data+Analyst+%40+Foliage+Outdoors;MSc+Data+Science+%40+UoN+(Merit);3x+Google+Certified+Professional;Data+Scientist;AI+Enthusiast"/>
 
