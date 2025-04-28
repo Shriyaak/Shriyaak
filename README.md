@@ -21,8 +21,6 @@ Actively focused on landing a data analyst role and exploring new opportunities.
 
 <br/> 
 
-## Projects
-Explore my repositories for more projects!
 
 
 
