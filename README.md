@@ -1,10 +1,10 @@
 
 
-## Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+## Hi there! I am Shreeya, <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 
 
- - I am Shreeya, 🎓 MSc Data Science graduate from the University of Nottingham, based in London. <br/>
+ - 🎓 MSc Data Science graduate from the University of Nottingham, based in London. <br/>
 
 - Aspiring data scientist and problem-solver passionate about turning data into meaningful insights. <br/>
 
