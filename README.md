@@ -34,8 +34,10 @@ Databases & Big Data: ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=my
 
 
 
-Let’s connect!  <br/> 
+## Let’s connect!  <br/> 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23001B3A.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/shreeyakumbhoje/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://shreeyakumbhojeportfolio.framer.website/)
+
 
 
 
