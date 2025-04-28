@@ -6,7 +6,7 @@
 
 
 
-I’m Shreeya — a data enthusiast, problem-solver, and lifelong learner based in London. <br/>
+I’m Shreeya — An aspiring data scientist, problem-solver, and lifelong learner based in London. <br/>
 Recent graduate from the University of Nottingham with an MSc in Data Science, I thrive on turning data into meaningful insights and solving real-world problems. With hands-on experience in data science projects and implementing machine learning algorithms, I'm passionate about using data to drive impact. My long-term goal is to contribute to AI-focused projects, and I see data analytics as the perfect foundation to grow in that direction. <br/>
 
 Beyond tech, I’ve managed logistics for 30+ expeditions, collaborated on innovative projects, and developed a strong sense of adaptability through travel. When I’m not deep in code or data, you’ll find me [sketching](https://www.tumblr.com/blog/sketchink), reading, binge-watching anime, traveling, and snapping [photos](https://www.instagram.com/shreeya.k___/). or cooking—because balance matters. <br/>
