@@ -38,7 +38,7 @@ Databases & Big Data: ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=my
 ## Projects 
 
 ### Check Out My Repositories for more Projects 
-![pjct1](https://github.com/Shriyaak/Shriyaak/blob/2526b329661cb400c2d308bdd6bb73fd0c87bcc7/final.jpg)
+![pjct1](https://github.com/Shriyaak/Shriyaak/blob/e5819abfdba7d137b046d6e1d7ec7927d2ae31a6/finale.jpg)
 
 
 
