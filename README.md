@@ -4,7 +4,7 @@
 
 
 
- - 🎓 MSc Data Science graduate from the University of Nottingham, based in London. <br/>
+ - I am Shreeya, 🎓 MSc Data Science graduate from the University of Nottingham, based in London. <br/>
 
 - Aspiring data scientist and problem-solver passionate about turning data into meaningful insights. <br/>
 
