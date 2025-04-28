@@ -21,13 +21,6 @@ Actively focused on landing a data analyst role and exploring new opportunities.
 
 <br/> 
 
-## Projects 
-
-### Check Out My Repositories for more Projects 
-![pjct1](https://github.com/Shriyaak/Shriyaak/blob/2526b329661cb400c2d308bdd6bb73fd0c87bcc7/final.jpg)
-
-
-
 
 ## 🛠️ Technical Skills   <br/> 
 
@@ -42,7 +35,10 @@ Machine Learning & Predictive Analytics: ![Scikit-Learn](https://img.shields.io/
 
 Databases & Big Data: ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&logoColor=white) , ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-black?logo=apachespark&logoColor=white)  
 
+## Projects 
 
+### Check Out My Repositories for more Projects 
+![pjct1](https://github.com/Shriyaak/Shriyaak/blob/2526b329661cb400c2d308bdd6bb73fd0c87bcc7/final.jpg)
 
 
 
