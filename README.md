@@ -4,10 +4,15 @@
 
 ##  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3366CC&width=435&lines=Ex+Data+Analyst+%40+Foliage+Outdoors;MSc+Data+Science+%40+UoN+(Merit);3x+Google+Certified+Professional;Data+Scientist;AI+Enthusiast"/>
 
+ - 🎓 MSc Data Science graduate from the University of Nottingham, based in London. <br/>
 
+- Aspiring data scientist and problem-solver passionate about turning data into meaningful insights. <br/>
 
-I’m Shreeya — An aspiring data scientist, problem-solver, and lifelong learner based in London. <br/>
-Recent graduate from the University of Nottingham with an MSc in Data Science, I thrive on turning data into meaningful insights and solving real-world problems. With hands-on experience in data science projects and implementing machine learning algorithms, I'm passionate about using data to drive impact. My long-term goal is to contribute to AI-focused projects, and I see data analytics as the perfect foundation to grow in that direction. <br/>
+- Hands-on experience with data science projects and implementing machine learning algorithms. <br/>
+
+- Driven by a long-term goal to contribute to AI-focused projects, building a strong foundation through data analytics. <br/>
+
+ <br/>
 
 Beyond tech, I’ve managed logistics for 30+ expeditions, collaborated on innovative projects, and developed a strong sense of adaptability through travel. When I’m not deep in code or data, you’ll find me [sketching](https://www.tumblr.com/blog/sketchink), reading, binge-watching anime, traveling, and snapping [photos](https://www.instagram.com/shreeya.k___/). or cooking—because balance matters. <br/>
 
@@ -34,7 +39,8 @@ Databases & Big Data: ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=my
 
 
 
-## Let’s connect!  <br/> 
+## Let’s connect!  
+
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23001B3A.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/shreeyakumbhoje/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-001B3A?style=for-the-badge&logo=portfolio&logoColor=white)](https://shreeyakumbhojeportfolio.framer.website/)
 
