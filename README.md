@@ -21,6 +21,10 @@ Actively focused on landing a data analyst role and exploring new opportunities.
 
 <br/> 
 
+## Projects
+Explore my repositories for more projects!
+
+![dashboard](https://github.com/Shriyaak/YOLOv5-Object-Detection-for-Autonomous-Vehicles/blob/d9fa0f8061ff9035ba2bfe6c508c3b5f6e213963/yolo.png)
 
 ## 🛠️ Technical Skills   <br/> 
 
