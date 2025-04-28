@@ -17,7 +17,7 @@ Actively focused on landing a data analyst role and exploring new opportunities.
 <br/> 
 
 
-### 🛠️ Technical Skills   <br/> 
+## 🛠️ Technical Skills   <br/> 
 
 Data Analysis & Manipulation:  ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white) ,  ![SQL](https://img.shields.io/badge/-SQL-black?logo=mysql&logoColor=white) ,  ![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas&logoColor=white) ,  ![NumPy](https://img.shields.io/badge/-NumPy-black?logo=numpy&logoColor=white)  
 
