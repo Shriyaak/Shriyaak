@@ -24,8 +24,7 @@ Actively focused on landing a data analyst role and exploring new opportunities.
 ## Projects
 Explore my repositories for more projects!
 
-![datascience_projects](https://github.com/Shriyaak/Shriyaak/blob/aa8de9f0fe669533b2f972af4fcbe430a7ffeb2c/A97379FF-AA2D-482C-822F-5FA43915E87D.jpg)
-![dataanalytics_projects](https://github.com/Shriyaak/Shriyaak/blob/aa8de9f0fe669533b2f972af4fcbe430a7ffeb2c/CD78A557-20A1-4DF3-9B3D-CE2533AAA3DC.jpg)
+
 
 ## 🛠️ Technical Skills   <br/> 
 
