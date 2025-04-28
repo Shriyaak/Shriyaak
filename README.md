@@ -23,8 +23,9 @@ Actively focused on landing a data analyst role and exploring new opportunities.
 
 ## Projects 
 
-### Data Analysis Projects: 
-![pjct1](https://github.com/Shriyaak/Shriyaak/blob/fcd72c2b187dec4b221259995463e6ce1ab99442/ana.jpg)
+### Check Out My Repositories for more Projects 
+![pjct1](https://github.com/Shriyaak/Shriyaak/blob/2526b329661cb400c2d308bdd6bb73fd0c87bcc7/final.jpg)
+
 
 
 
