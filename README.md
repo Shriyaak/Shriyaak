@@ -17,28 +17,37 @@
 Beyond tech, I’ve managed logistics for 30+ expeditions, collaborated on innovative projects, and developed a strong sense of adaptability through travel. When I’m not deep in code or data, you’ll find me [sketching](https://www.tumblr.com/blog/sketchink), reading, binge-watching anime, traveling, and snapping [photos](https://www.instagram.com/shreeya.k___/). or cooking—because balance matters. <br/>
 
 <br/> 
-Actively focused on landing a data analyst role and exploring new opportunities. <br/>
+Actively seeking graduate or entry-level roles in data science and analytics in the UK. <br/>
 
 <br/> 
 
 
 ## 🛠️ Technical Skills   <br/> 
 
-Data Analysis & Manipulation:  ![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white) ,  ![SQL](https://img.shields.io/badge/-SQL-black?logo=mysql&logoColor=white) ,  ![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas&logoColor=white) ,  ![NumPy](https://img.shields.io/badge/-NumPy-black?logo=numpy&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-black?logo=python&logoColor=white) ,  ![SQL](https://img.shields.io/badge/-SQL-black?logo=mysql&logoColor=white) ,  ![Pandas](https://img.shields.io/badge/-Pandas-black?logo=pandas&logoColor=white) ,  ![NumPy](https://img.shields.io/badge/-NumPy-black?logo=numpy&logoColor=white) , ![Power BI](https://img.shields.io/badge/-Power%20BI-black?logo=powerbi&logoColor=white) ,  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?logo=plotly&logoColor=white) , ![Streamlit](https://img.shields.io/badge/-Streamlit-black?logo=streamlit&logoColor=white) , ![Vega-Altair](https://img.shields.io/badge/-Vega%20Altair-black?logo=vega&logoColor=white) , ![Excel](https://img.shields.io/badge/-Excel-black?logo=microsoftexcel&logoColor=white) , ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-black?logo=googlesheets&logoColor=white)  , ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-black?logo=scikitlearn&logoColor=white) , ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&logoColor=white) , ![PyTorch](https://img.shields.io/badge/-PyTorch-black?logo=pytorch&logoColor=white)  ,![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&logoColor=white) , ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-black?logo=apachespark&logoColor=white)  
 
-Data Visualization: ![Power BI](https://img.shields.io/badge/-Power%20BI-black?logo=powerbi&logoColor=white) ,  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-black?logo=plotly&logoColor=white) , ![Streamlit](https://img.shields.io/badge/-Streamlit-black?logo=streamlit&logoColor=white) , ![Vega-Altair](https://img.shields.io/badge/-Vega%20Altair-black?logo=vega&logoColor=white)  
+## Repository Structure
 
-Business Intelligence & Reporting:  ![Excel](https://img.shields.io/badge/-Excel-black?logo=microsoftexcel&logoColor=white) , ![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-black?logo=googlesheets&logoColor=white)  
+### Virtual Internships & Programs (Total Projects: 4)
 
-Machine Learning & Predictive Analytics: ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-black?logo=scikitlearn&logoColor=white) , ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&logoColor=white) , ![PyTorch](https://img.shields.io/badge/-PyTorch-black?logo=pytorch&logoColor=white)  
+1. [British Airways – Sentiment Analysis of Customer Reviews](https://github.com/Shriyaak/Virtual_Internships/tree/main/BritishAirways)
+2. [Citi Group – Investment Banking Job Simulation](https://github.com/Shriyaak/Virtual_Internships/tree/main/CitiGroup)
+3. [Deloitte – Daikibo Data Analysis](https://github.com/Shriyaak/Virtual_Internships/tree/main/Deloitte)
+4. [My Thriving Child – Social Media Performance Dashboard](https://github.com/Shriyaak/Virtual_Internships/tree/main/MyThrivingChild)
 
+### Data Analysis Projects (Total Projects: 6)
 
-Databases & Big Data: ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&logoColor=white) , ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-black?logo=apachespark&logoColor=white)  
+1. [Bank Customer Analysis Dashboard](https://github.com/Shriyaak/DataAnalysisProjects/tree/main/BankCustomerAnalysisDashboard)
+2. [Bike Sales Dashboard](https://github.com/Shriyaak/DataAnalysisProjects/tree/main/BikeSalesDashboard)
+3. [Earthquake Response Dashboard](https://github.com/Shriyaak/DataAnalysisProjects/tree/main/EarthquakeResponseDashboard)
+4. [Library Management System](https://github.com/Shriyaak/DataAnalysisProjects/tree/main/LibraryManagementSystem)
+5. [Retail Sales Analysis](https://github.com/Shriyaak/DataAnalysisProjects/tree/main/RetailSalesAnalysis)
+6. [Studio Ghibli Movie Data Analysis](https://github.com/Shriyaak/DataAnalysisProjects/tree/main/StudioGibhliMovieDataAnalysis)
 
-## Projects 
+### Data Science Projects (Total Projects: 2)
 
-#### Check Out My Repositories for more Projects 
-![pjct1](https://github.com/Shriyaak/Shriyaak/blob/e5819abfdba7d137b046d6e1d7ec7927d2ae31a6/finale.jpg)
+1. [YOLOv5 Multi-Object Detection for Autonomous Vehicles – Semi-Supervised Learning](https://github.com/Shriyaak/YOLOv5-Object-Detection-for-Autonomous-Vehicles)
+2. [Hand Gesture Recognition using ML – Frequency Analysis](https://github.com/Shriyaak/Hand-Gesture-Recognition-using-ML-Frequency-Analysis)
 
 
 
