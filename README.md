@@ -30,6 +30,8 @@ Actively seeking graduate or entry-level roles in data science and analytics in 
 
 ### Virtual Internships & Programs (Total Projects: 4)
 
+![companies](https://github.com/Shriyaak/Shriyaak/blob/80f42628cfc81f7130b369351d04d78bd353964f/comp.jpg)
+
 1. [British Airways – Sentiment Analysis of Customer Reviews](https://github.com/Shriyaak/Virtual_Internships/tree/main/BritishAirways)
 2. [Citi Group – Investment Banking Job Simulation](https://github.com/Shriyaak/Virtual_Internships/tree/main/CitiGroup)
 3. [Deloitte – Daikibo Data Analysis](https://github.com/Shriyaak/Virtual_Internships/tree/main/Deloitte)
