@@ -8,8 +8,6 @@
 
 - Aspiring data scientist and problem-solver passionate about turning data into meaningful insights. <br/>
 
-- Hands-on experience with data science projects and implementing machine learning algorithms. <br/>
-
 - Driven by a long-term goal to contribute to AI-focused projects, building a strong foundation through data analytics. <br/>
 
  <br/>
