@@ -39,6 +39,8 @@ Actively seeking graduate or entry-level roles in data science and analytics in 
 
 ### Data Analysis Projects (Total Projects: 6)
 
+![Projects](https://github.com/Shriyaak/Shriyaak/blob/25c696886fa4f8a1acba057d3ef97e4275ee8116/DA%5Bprojects.jpg) 
+
 1. [Bank Customer Analysis Dashboard](https://github.com/Shriyaak/DataAnalysisProjects/tree/main/BankCustomerAnalysisDashboard)
 2. [Bike Sales Dashboard](https://github.com/Shriyaak/DataAnalysisProjects/tree/main/BikeSalesDashboard)
 3. [Earthquake Response Dashboard](https://github.com/Shriyaak/DataAnalysisProjects/tree/main/EarthquakeResponseDashboard)
