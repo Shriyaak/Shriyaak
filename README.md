@@ -10,15 +10,8 @@
 
 - Driven by a long-term goal to contribute to AI-focused projects, building a strong foundation through data analytics. <br/>
 
- <br/>
-
-Beyond tech, I’ve managed logistics for 30+ expeditions, collaborated on innovative projects, and developed a strong sense of adaptability through travel. When I’m not deep in code or data, you’ll find me [sketching](https://www.tumblr.com/blog/sketchink), reading, binge-watching anime, traveling, and snapping [photos](https://www.instagram.com/shreeya.k___/). or cooking—because balance matters. <br/>
-
 <br/> 
 Actively seeking graduate or entry-level roles in data science and analytics in the UK. <br/>
-
-<br/> 
-
 
 # 🛠️ Technical Skills   <br/> 
 
