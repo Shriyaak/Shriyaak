@@ -1,16 +1,8 @@
 
 
 # Hi there! I am Shreeya, <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-
-
-
- - 🎓 MSc Data Science graduate from the University of Nottingham, based in London. <br/>
-
-- Aspiring data scientist and problem-solver passionate about turning data into meaningful insights. <br/>
-
-- Driven by a long-term goal to contribute to AI-focused projects, building a strong foundation through data analytics. <br/>
-
-<br/> 
+MSc Data Science graduate from the University of Nottingham with hands-on experience in machine learning and data projects. Passionate about using data to solve real-world problems and aiming to grow in AI-focused roles. 
+<br/> <br/>
 Actively seeking graduate or entry-level roles in data science and analytics in the UK. <br/>
 
 # 🛠️ Technical Skills   <br/> 
