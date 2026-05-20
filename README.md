@@ -1,9 +1,11 @@
 
 
 ### Hi there! I am Shreeya, <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
-MSc Data Science graduate from the University of Nottingham with hands-on experience in machine learning and data projects. Passionate about using data to solve real-world problems and aiming to grow in AI-focused roles. 
-<br/> <br/>
-Actively seeking graduate or entry-level roles in data science and analytics in the UK. <br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shriyaak/Shriyaak/b1738a73624403c90c5b9dacc52cbbd47d2f3dd9/portfolio.webp" width="800"/>
+</p>
+CORA is my personalised AI agent designed to help you explore and learn more about me.
+
 
 # 🛠️ Technical Skills   <br/> 
 
