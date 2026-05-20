@@ -2,7 +2,7 @@
 
 ### Hi there! I am Shreeya, <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 <p align="center">
-  <img src="" width="800"/>
+  <img src="https://github.com/Shriyaak/Shriyaak/blob/aba298533b9aa91dbb2d4f5ed09c74f87bf013ae/cora.png" width="800"/>
 </p>
 CORA is my personalised AI agent designed to help you explore and learn more about me.
 
