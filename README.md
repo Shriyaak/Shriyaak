@@ -6,6 +6,8 @@
 </p>
 CORA is my personalised AI agent designed to help you explore and learn more about me.
 
+[<img src="https://img.shields.io/badge/CORA%20PORTFOLIO-000000?style=for-the-badge" />](https://cora-portfolio.vercel.app)
+
 
 # 🛠️ Technical Skills   <br/> 
 
@@ -15,7 +17,7 @@ CORA is my personalised AI agent designed to help you explore and learn more abo
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23001B3A.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/shreeyakumbhoje/)
 
-[<img src="https://img.shields.io/badge/CORA%20PORTFOLIO-000000?style=for-the-badge" />](https://cora-portfolio.vercel.app)
+
 
 
 
