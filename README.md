@@ -14,7 +14,7 @@ CORA is my personalised AI agent designed to help you explore and learn more abo
 # Let’s connect!  
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23001B3A.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/shreeyakumbhoje/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-001B3A?style=for-the-badge&logo=portfolio&logoColor=white)](https://shreeyakumbhojeportfolio.framer.website/)
+[![CORA-portfolio](https://cora-portfolio.vercel.app)
 
 
 
